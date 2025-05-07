@@ -1,4 +1,4 @@
-# Please visit [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) for future update.
+# This repo has been merged. Please visit [VLMEvalKit](https://github.com/open-compass/VLMEvalKit) for future updates.
 
 ---
 
